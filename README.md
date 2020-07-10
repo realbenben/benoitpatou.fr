@@ -1,2 +1,7 @@
 # benoitpatou.fr
-personnal website
+
+> Personnal website
+
+## getting started
+
+    git clone git@github.com:realbenben/benoitpatou.fr.git
