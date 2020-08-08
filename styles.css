@@ -10,3 +10,39 @@ body {
 .content p {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,Noto Sans,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
 }
+
+.contact .nes-field {
+  margin-bottom: 16px;
+
+}
+
+.footer {
+  background-color: #031A37;
+  padding: 100px 40px;
+}
+
+.footer .icon-list {
+  display: flex;
+justify-content: space-around;
+
+}
+.footer .icon-list a {
+  display: flex;
+  align-items: center;
+}
+
+.footer .icon-list a {
+  display: flex;
+  align-items: center;
+}
+
+.footer a:hover {
+  color: #E59400;
+  text-decoration: none;
+}
+
+
+.footer-text {
+  margin-left: 16px;
+
+}
