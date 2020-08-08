@@ -1,6 +1,12 @@
-
-h1{
-  font-family: "Press Start 2P";
-
+body {
+    background-color: #f3f4f6;
+}
+.section {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 40px;
 }
 
+.content p {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,Noto Sans,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
