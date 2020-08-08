@@ -4,7 +4,8 @@ body {
 img {
   max-width: 100%;
 }
-.section {
+.section,
+.header-menu {
   max-width: 768px;
   margin: 0 auto;
   padding: 40px;
@@ -62,4 +63,30 @@ justify-content: space-around;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+.nes-btn.is-small {
+  font-size: 9px;
+  width: 100%;
+  margin-top: 16px;
+
+}
+.nes-container{
+  background: white;
+}
+
+.header {
+  background-color: white;
+  border-top:8px solid #ADAFBC;
+}
+.header.is-error{
+border-top-color: #fe0016;
+}
+.header-link {
+  color: #111111;
+}
+.header-link:hover {
+  text-decoration: none;
+}
+.header-link.is-active {
+  color: #47BFFF;
 }
