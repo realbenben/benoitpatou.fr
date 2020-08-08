@@ -1,0 +1,23 @@
+{
+  "name": "benoitpatou.fr",
+  "version": "1.0.0",
+  "description": "my website",
+  "main": "index.js",
+  "dependencies": {
+    "nes.css": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realbenben/benoitpatou.fr.git"
+  },
+  "author": "benoit patou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realbenben/benoitpatou.fr/issues"
+  },
+  "homepage": "https://github.com/realbenben/benoitpatou.fr#readme"
+}
