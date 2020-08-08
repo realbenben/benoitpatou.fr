@@ -1,6 +1,9 @@
 body {
     background-color: #f3f4f6;
 }
+img {
+  max-width: 100%;
+}
 .section {
   max-width: 768px;
   margin: 0 auto;
@@ -45,4 +48,18 @@ justify-content: space-around;
 .footer-text {
   margin-left: 16px;
 
+}
+
+.container-grid {
+  display: grid;
+ grid-gap: 32px;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.container-grid-image {
+  min-width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
