@@ -1,4 +1,4 @@
-const allCheatcodes = [
+export default [
 {
 "keyscode": "ctrl + z",
 "description": "Annuler les dernières modification (appuyer plusieurs fois)"
@@ -153,21 +153,7 @@ const allCheatcodes = [
 {
 "keyscode": "ctrl + un chiffre",
 "description": "ouvre l'onglet numéro ...."
-}
-];
+},
+]
 
-console.log(allCheatcodes);
 
-const target = document.getElementById('js-cheatcode');
-
-const allCheatcodesHTML = allCheatcodes.map((code) => {
-
-    const template = `
-      <p>
-        <code>${code.keyscode}</code>
-          ${code.description}
-      </p>
-    `;
-    return template;
-  });
-target.innerHTML = allCheatcodesHTML;
