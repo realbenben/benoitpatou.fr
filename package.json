@@ -4,6 +4,7 @@
   "description": "my website",
   "main": "index.js",
   "dependencies": {
+    "howler": "^2.2.0",
     "nes.css": "^2.3.0"
   },
   "devDependencies": {},
