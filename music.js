@@ -8,7 +8,7 @@ ion.sound({
     { name: 'OOT_Notes_Ocarina_F_med.wav' },
   ],
   volume: 0.5,
-  path: 'sound/',
+  path: './sound/',
   preload: true,
 });
 console.log(ion);
