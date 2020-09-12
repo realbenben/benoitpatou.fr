@@ -4,9 +4,8 @@
   "description": "my website",
   "main": "index.js",
   "dependencies": {
-    "howler": "^2.2.0",
-    "nes.css": "^2.3.0",
-    "prettier": "^2.1.1"
+    "ion-sound": "^3.0.7",
+    "nes.css": "^2.3.0"
   },
   "devDependencies": {},
   "scripts": {
