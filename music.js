@@ -9,7 +9,9 @@ ion.sound({
     { name: 'OOT_Notes_Ocarina_D_med' },
     { name: 'OOT_Notes_Ocarina_F_med' },
   ],
-  volume: 0.5,
+  volume: 1,
   path: './sound/',
   preload: true,
 });
+
+ion.sound.play('OOT_Notes_Ocarina_A_med');
