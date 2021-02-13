@@ -4,6 +4,7 @@
   "description": "my website",
   "main": "index.js",
   "dependencies": {
+    "ion-sound": "^3.0.7",
     "nes.css": "^2.3.0"
   },
   "devDependencies": {},
