@@ -6,7 +6,7 @@ img {
 }
 .section,
 .header-menu {
-  max-width: 768px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 40px;
 }
